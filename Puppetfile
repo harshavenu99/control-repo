@@ -13,3 +13,5 @@ mod 'tomcat',
   :git    => 'https://github.com/harshavenu99/puppet-module-tomcat'
 mod 'java',
   :git    => 'https://github.com/harshavenu99/java-module-puppet'
+mod 'base',
+  :git    => 'https://github.com/harshavenu99/puppet-module-base'
