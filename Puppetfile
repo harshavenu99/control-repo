@@ -10,7 +10,6 @@ mod "puppetlabs/haproxy",      '4.11.0'
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 mod 'tomcat',
-  :git    => 'https://github.com/harshavenu99/puppet-module-tomcat.git',
-
+  :git    => 'https://github.com/harshavenu99/puppet-module-tomcat'
 mod 'java',
-  :git    => 'https://github.com/harshavenu99/java-module-puppet.git',
+  :git    => 'https://github.com/harshavenu99/java-module-puppet'
