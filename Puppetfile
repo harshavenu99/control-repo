@@ -13,7 +13,7 @@ mod 'tomcat',
   :git    => 'https://github.com/harshavenu99/puppet-module-tomcat.git',
 #  :commit => '83401079053dca11d61945bd9beef9ecf7576cbf'
 
-mod 'java',
+mod 'java'
   :git    => 'https://github.com/harshavenu99/java-module-puppet.git',
 #  :commit => '83401079053dca11d61945bd9beef9ecf7576cbf'
 
